@@ -1,0 +1,56 @@
+2024-07-02 00:34:42,606 | INFO
+2024-07-02 00:34:54,443 | DEBUG
+2024-07-02 00:35:57,104 | INFO
+2024-07-02 00:35:57,449 | DEBUG
+2024-07-02 00:36:14,124 | INFO |this is my info log
+2024-07-02 00:36:14,970 | DEBUG |this is my debug log
+2024-07-02 00:36:26,612 | WARNING |this is my warning
+2024-07-02 00:49:52,411 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:49:52,413 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:49:52,413 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:49:52,413 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:49:52,413 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:49:52,413 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:49:52,413 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:49:52,413 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,851 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,852 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,852 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,852 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,852 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,852 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,853 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,853 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,854 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,854 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,854 | INFO |logging my j4 and i is [4, 5, 6]
+2024-07-02 00:50:43,854 | INFO |logging my j5 and i is [4, 5, 6]
+2024-07-02 00:50:43,854 | INFO |logging my j6 and i is [4, 5, 6]
+2024-07-02 00:50:43,854 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,854 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:50:43,854 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:50:43,854 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,007 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,008 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,009 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,009 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,009 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,010 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,010 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,010 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,010 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,010 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,010 | INFO |logging my j4 and i is [4, 5, 6]
+2024-07-02 00:51:34,010 | INFO |logging my j5 and i is [4, 5, 6]
+2024-07-02 00:51:34,010 | INFO |logging my j6 and i is [4, 5, 6]
+2024-07-02 00:51:34,011 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,011 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,011 | INFO |this is the start of my first loop [1, 2, 3, 4, [4, 5, 6], 'xiujuan', 'guo']
+2024-07-02 00:51:34,011 | INFO |thyis is the vaoue of i am logging{}
+2024-07-02 00:51:34,011 | INFO |this is my final result with all int [1, 2, 3, 4, 4, 5, 6], with all str ['xiujuan', 'guo']
